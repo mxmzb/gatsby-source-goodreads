@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-source-goodreads",
-  "version": "0.1.1",
+  "name": "@halkeye/gatsby-source-goodreads",
+  "version": "0.0.1",
   "description": "Get the public books from a shelf in Goodreads for use in Gatsby.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanielOliver/gatsby-source-goodreads.git"
+    "url": "git+https://github.com/halkeye/gatsby-source-goodreads.git"
   },
   "bundleDependencies": false,
   "keywords": [
@@ -12,7 +12,7 @@
     "gatsby",
     "gatsby-plugin"
   ],
-  "author": "Daniel Oliver <danieloliversoftware@gmail.com> (https://www.olivercoding.com/)",
+  "author": "Gavin Mogan <npm@gavinmogan.com> (https://www.gavinmogan.com/)",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.17.1",
@@ -20,7 +20,7 @@
     "xml2js": "^0.4.19"
   },
   "bugs": {
-    "url": "https://github.com/DanielOliver/gatsby-source-goodreads/issues"
+    "url": "https://github.com/halkeye/gatsby-source-goodreads/issues"
   },
-  "homepage": "https://github.com/DanielOliver/gatsby-source-goodreads#readme"
+  "homepage": "https://github.com/halkeye/gatsby-source-goodreads#readme"
 }
