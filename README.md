@@ -31,29 +31,32 @@ Below is a sample query for fetching the shelf's books.
 
 ```graphql
 query goodRead {
-  goodreadsShelf {
-    id
-    shelfName
-    reviews {
-      reviewID
-      rating
-      votes
-      spoilerFlag
-      dateAdded
-      dateUpdated
-      book {
-        bookID
-        isbn
-        isbn13
-        textReviewsCount
-        uri
-        link
-        title
-        titleWithoutSeries
-        imageUrl
-        smallImageUrl
-        largeImageUrl
-        description
+  allGoodreadsShelf(filter: {shelfNames: {in: ["currently-reading"]}}) {
+    edges {
+      node {
+        shelfNames
+        review {
+          reviewID
+          rating
+          votes
+          spoilerFlag
+          dateAdded
+          dateUpdated
+        }
+        book {
+          bookID
+          isbn
+          isbn13
+          textReviewsCount
+          uri
+          link
+          title
+          titleWithoutSeries
+          imageUrl
+          smallImageUrl
+          largeImageUrl
+          description
+        }
       }
     }
   }
