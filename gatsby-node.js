@@ -16,8 +16,8 @@ function processBook (reviewElement) {
   const shelfNames = reviewElement.shelves[0].shelf.map(s => s.$.name);
   const review = {
     reviewID: reviewElement.id[0],
-    rating: reviewElement.rating[0],
-    votes: reviewElement.votes[0],
+    rating: parseInt(reviewElement.rating[0]),
+    votes: parseInt(reviewElement.votes[0]),
     spoilerFlag: reviewElement.spoiler_flag[0],
     spoilersState: reviewElement.spoilers_state[0],
     dateAdded: reviewElement.date_added[0]
@@ -49,9 +49,9 @@ function processBook (reviewElement) {
     authors: bookElement.authors[0].author.map(authorElement => ({
       id: authorElement.id[0],
       name: authorElement.name[0],
+      link: (authorElement.link[0] || '').trim(),
       imageUrl: (authorElement.image_url[0]._ || '').trim(),
       smallImageUrl: (authorElement.small_image_url[0]._ || '').trim(),
-      link: authorElement.link[0],
       average_rating: authorElement.average_rating[0],
       ratings_count: authorElement.ratings_count[0],
       text_reviews_count: authorElement.text_reviews_count[0]

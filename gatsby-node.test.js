@@ -81,13 +81,13 @@ describe('main', function () {
         review: {
           dateAdded: '2011-10-24T17:42:54.000Z',
           dateUpdated: '2011-10-24T17:45:54.000Z',
-          rating: '4',
+          rating: 4,
           readAt: '2011-10-24T07:00:00.000Z',
           reviewID: '226999906',
           spoilerFlag: 'false',
           spoilersState: 'none',
           startedAt: '2011-10-20T07:00:00.000Z',
-          votes: '0'
+          votes: 0
         },
         shelfNames: ['read', 'dont-own']
       }
