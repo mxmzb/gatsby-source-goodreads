@@ -7,6 +7,9 @@ exports.sourceNodes = async (
   { goodReadsUserId, userShelf = "", developerKey = "" }
 ) => {
   const { createNode } = boundActionCreators;
+  if (!goodReadsUserId) {
+    return;
+  }
 
   // Do the initial fetch
   activity = reporter.activityTimer(`fetch goodreads data`);
