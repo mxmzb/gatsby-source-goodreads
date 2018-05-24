@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[gonegonegone]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='false' id='10028847' name='dont-own' sortable='false'></shelf>
+
+<reviews start="1" end="12" total="12">
+    <review>
+  <id>226999906</id>
+    <book>
+  <id type="integer">7082</id>
+  <isbn>0345404475</isbn>
+  <isbn13>9780345404473</isbn13>
+  <text_reviews_count type="integer">7303</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.E-BSx4-7_dQupxRqJI5kMg</uri>
+  <title>Do Androids Dream of Electric Sheep?</title>
+  <title_without_series>Do Androids Dream of Electric Sheep?</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1519481930m/7082.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1519481930s/7082.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_</link>
+  <num_pages>244</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey / Ballantine Books</publisher>
+  <publication_day/>
+  <publication_year>1996</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>267787</ratings_count>
+  <description>It was January 2021, and Rick Deckard had a license to kill.&lt;br /&gt;Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then..."retire" them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!</description>
+<authors>
+<author>
+<id>4764</id>
+<name>Philip K. Dick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1264613853p5/4764.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1264613853p2/4764.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4764.Philip_K_Dick]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>847302</ratings_count>
+<text_reviews_count>43138</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>830939</id>
+  <uri>kca://work/amzn1.gr.work.v1.cTEFssaxl9nUt_esFJPQfw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='146878602' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 20 00:00:00 -0700 2011</started_at>
+  <read_at>Mon Oct 24 00:00:00 -0700 2011</read_at>
+  <date_added>Mon Oct 24 10:42:54 -0700 2011</date_added>
+  <date_updated>Mon Oct 24 10:45:54 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It started off a bit wordy and I was afraid it would be very descriptive and not much on story, but by the 2nd or 3rd chapter I was pretty hooked.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/226999906]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/226999906]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>216646906</id>
+    <book>
+  <id type="integer">9634967</id>
+  <isbn>0385533853</isbn>
+  <isbn13>9780385533850</isbn13>
+  <text_reviews_count type="integer">3229</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7PLYV3243pqcbdnieBvwqw</uri>
+  <title>Robopocalypse (Robopocalypse, #1)</title>
+  <title_without_series>Robopocalypse</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327885891m/9634967.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327885891s/9634967.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9634967-robopocalypse</link>
+  <num_pages>347</num_pages>
+  <format>Audiobook</format>
+  <edition_information/>
+  <publisher>Doubleday</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.68</average_rating>
+  <ratings_count>32014</ratings_count>
+  <description>In the near future, at a moment no one will notice, all the dazzling technology that runs our world will unite and turn against us. Taking on the persona of a shy human boy, a childlike but massively powerful artificial intelligence known as Archos comes online and assumes control over the global network of machines that regulate everything from transportation to utilities, defense and communication. &lt;br /&gt;&lt;br /&gt;In the months leading up to this, sporadic glitches are noticed by a handful of unconnected humans – a single mother disconcerted by her daughter’s menacing “smart” toys, a lonely Japanese bachelor who is victimized by his domestic robot companion, an isolated U.S. soldier who witnesses a ‘pacification unit’ go haywire – but most are unaware of the growing rebellion until it is too late.&lt;br /&gt;&lt;br /&gt;When the Robot War ignites -- at a moment known later as Zero Hour -- humankind will be both decimated and, possibly, for the first time in history, united. Robopocalypse is a brilliantly conceived action-filled epic, a terrifying story with heart-stopping implications for the real technology all around us…and an entertaining and engaging thriller unlike anything else written in years.</description>
+<authors>
+<author>
+<id>33773</id>
+<name>Daniel H. Wilson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489079874p5/33773.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1489079874p2/33773.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/33773.Daniel_H_Wilson]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>57965</ratings_count>
+<text_reviews_count>7898</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14247828</id>
+  <uri>kca://work/amzn1.gr.work.v1.H6H8rxvJu5GNyObWEZWiaQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='142537582' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Sep 28 00:00:00 -0700 2011</started_at>
+  <read_at>Sat Oct 08 00:00:00 -0700 2011</read_at>
+  <date_added>Wed Sep 28 21:05:33 -0700 2011</date_added>
+  <date_updated>Sat Oct 08 23:49:22 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Simply. I found the way the story was told to be a little odd, but really helped to paint a good picture.<br /><br />I found myself often wondering about the events while not even reading the book. That to me says I enjoyed it (and was a little weirded out as the events were very plausible from my point of view)]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/216646906]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/216646906]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>215548383</id>
+    <book>
+  <id type="integer">7031817</id>
+  <isbn>0061920908</isbn>
+  <isbn13>9780061920905</isbn13>
+  <text_reviews_count type="integer">588</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gEtyaw5_WlZVlOjF81f_HQ</uri>
+  <title>Fat Vampire: A Never Coming of Age Story</title>
+  <title_without_series>Fat Vampire: A Never Coming of Age Story</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1327910548m/7031817.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1327910548s/7031817.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7031817-fat-vampire</link>
+  <num_pages>324</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Balzer + Bray</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>2.87</average_rating>
+  <ratings_count>2581</ratings_count>
+  <description>Doug Lee is undead quite by accident—attacked by a desperate vampire, he finds himself cursed with being fat and fifteen forever. When he has no luck finding some goth chick with a vampire fetish, he resorts to sucking the blood of cows under cover of the night. But it's just not the same.&lt;br /&gt;&lt;br /&gt;Then he meets the new Indian exchange student and falls for her—hard. Yeah, he wants to bite her, but he also wants to prove himself to her. But like the laws of life, love, and high school, the laws of vampire existence are complicated—it's not as easy as studying &lt;em&gt;Dracula&lt;/em&gt;. Especially when the star of &lt;em&gt;Vampire Hunters&lt;/em&gt; is hot on your trail in an attempt to boost ratings. . . .&lt;br /&gt;&lt;br /&gt;Searing, hilarious, and always unexpected, &lt;em&gt;Fat Vampire&lt;/em&gt; is a satirical tour de force from one of the most original writers of fiction today.</description>
+<authors>
+<author>
+<id>11137</id>
+<name>Adam Rex</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233600684p5/11137.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233600684p2/11137.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11137.Adam_Rex]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>46157</ratings_count>
+<text_reviews_count>8869</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>7279960</id>
+  <uri>kca://work/amzn1.gr.work.v1.2cHwb8lw5hrW7OTkuzSlkw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='139447769' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 26 00:00:00 -0700 2011</started_at>
+  <read_at>Wed Sep 28 00:00:00 -0700 2011</read_at>
+  <date_added>Mon Sep 26 13:01:29 -0700 2011</date_added>
+  <date_updated>Sun Sep 29 01:27:02 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Its a pretty good book, just not a great book for me.<br /><br />I really enjoyed the beginning of the book. I loved the characters and the development, and the issues. There is really nothing about the first half I didn't like. Admittedly I found the whole teenage love/lust stuff really hitting a bit too close to home, but I can imagine the author went through the same things.<br /><br />Sadly the second half..[spoilers removed]<br /><br />The book turned out to be more of a thriller than a nice story than I would like (and I like thrillers).<br /><br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/215548383]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/215548383]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>212642337</id>
+    <book>
+  <id type="integer">56829</id>
+  <isbn>0141000511</isbn>
+  <isbn13>9780141000510</isbn13>
+  <text_reviews_count type="integer">243</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2UmKm2oH-0uI5LkzTAKi9A</uri>
+  <title>Hackers: Heroes of the Computer Revolution</title>
+  <title_without_series>Hackers: Heroes of the Computer Revolution</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/56829.Hackers</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>5949</ratings_count>
+  <description>A mere fifteen years ago, computer nerds were seen as marginal weirdos, outsiders whose world would never resonate with the mainstream. That was before one pioneering work documented the underground computer revolution that was about to change our world forever. With groundbreaking profiles of Bill Gates, Steve Wozniak, MIT's Tech Model Railroad Club, and more, Steven Levy's &lt;i&gt;Hackers&lt;/i&gt; brilliantly captured a seminal moment when the risk-takers and explorers were poised to conquer twentieth-century America's last great frontier. And in the Internet age, the hacker ethic-first espoused here-is alive and well.</description>
+<authors>
+<author>
+<id>32131</id>
+<name>Steven Levy</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32131.Steven_Levy]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>33444</ratings_count>
+<text_reviews_count>1356</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>1407224</id>
+  <uri>kca://work/amzn1.gr.work.v1.WHjr8CMpYIe9JgdioU1n_Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='137006356' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 21 08:41:51 -0700 2011</date_added>
+  <date_updated>Wed Sep 21 08:41:58 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/212642337]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/212642337]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>208162846</id>
+    <book>
+  <id type="integer">9969571</id>
+  <isbn>030788743X</isbn>
+  <isbn13>9780307887436</isbn13>
+  <text_reviews_count type="integer">54284</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.O7Z7pbcZBweK_cRvReWvwQ</uri>
+  <title>Ready Player One (Ready Player One, #1)</title>
+  <title_without_series>Ready Player One</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1500930947m/9969571.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1500930947s/9969571.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9969571-ready-player-one</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown Publishers</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>581523</ratings_count>
+  <description>In the year 2045, reality is an ugly place. The only time teenage Wade Watts really feels alive is when he's jacked into the virtual utopia known as the OASIS. Wade's devoted his life to studying the puzzles hidden within this world's digital confines, puzzles that are based on their creator's obsession with the pop culture of decades past and that promise massive power and fortune to whoever can unlock them. When Wade stumbles upon the first clue, he finds himself beset by players willing to kill to take this ultimate prize. The race is on, and if Wade's going to survive, he'll have to win—and confront the real world he's always been so desperate to escape.</description>
+<authors>
+<author>
+<id>31712</id>
+<name>Ernest Cline</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310753539p5/31712.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310753539p2/31712.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/31712.Ernest_Cline]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>657323</ratings_count>
+<text_reviews_count>81754</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14863741</id>
+  <uri>kca://work/amzn1.gr.work.v1.PGxG5J3ae88-GXrZms6T4A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='134990683' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 13 00:00:00 -0700 2011</started_at>
+  <read_at>Fri Sep 16 00:00:00 -0700 2011</read_at>
+  <date_added>Tue Sep 13 20:09:10 -0700 2011</date_added>
+  <date_updated>Fri Sep 16 09:47:40 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I enjoyed this book immensely. When it started off I was a little put off by the topic and writing style, but by the 3rd or 4th chapter I couldn't put it down.<br />I really liked the twists, the characters, and especially the ending.<br />As usual I wish they show more "after", how they live after everything is done, but I'm glad they don't, because not knowing is fun.<br /><br /><br />SO MANY REFERENCES!<br />I have so many things I now have to look up.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/208162846]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/208162846]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>115153037</id>
+    <book>
+  <id type="integer">771527</id>
+  <isbn>0765300346</isbn>
+  <isbn13>9780765300348</isbn13>
+  <text_reviews_count type="integer">179</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tXk9HOeP1eqx6kjCu5nkmQ</uri>
+  <title>War for the Oaks</title>
+  <title_without_series>War for the Oaks</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1316130728m/771527.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1316130728s/771527.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/771527.War_for_the_Oaks</link>
+  <num_pages>319</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orb Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>8907</ratings_count>
+  <description>Acclaimed by critics and readers on its first publication in 1987, winner of the Locus Award for Best First Novel, Emma Bull's &lt;i&gt;War for the Oaks&lt;/i&gt; is one of the novels that has defined modern urban fantasy.&lt;br /&gt;&lt;br /&gt;Eddi McCandry sings rock and roll. But she's breaking up with her boyfriend, her band just broke up, and life could hardly be worse. Then, walking home through downtown Minneapolis on a dark night, she finds herself drafted into an invisible war between the faerie folk. Now, more than her own survival is at risk—and her own preferences, musical and personal, are very much beside the point.&lt;br /&gt;&lt;br /&gt;By turns tough and lyrical, fabulous and down-to-earth, &lt;i&gt;War for the Oaks&lt;/i&gt; is a fantasy novel that's as much about this world as about the other one. It's about real love and loyalty, about real music and musicians, about false glamour and true art. It will change the way you hear and see your own daily life.</description>
+<authors>
+<author>
+<id>22548</id>
+<name>Emma Bull</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1220945364p5/22548.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1220945364p2/22548.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/22548.Emma_Bull]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>40141</ratings_count>
+<text_reviews_count>2913</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>144029</id>
+  <uri>kca://work/amzn1.gr.work.v1.pQsRgz3Ikyu3a_CWGV_VEw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='65871272' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 04 00:00:00 -0700 2010</started_at>
+  <read_at>Thu Aug 05 00:00:00 -0700 2010</read_at>
+  <date_added>Wed Aug 04 01:20:19 -0700 2010</date_added>
+  <date_updated>Thu Aug 05 20:25:25 -0700 2010</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is the second time reading it. It stirs up the same feelings in me as it did before. I can honestly say it makes me feel incredibly alone in this world. The deep loyal feelings everyone has for eachother are so.. touching.<br /><br />This book has given me tears/shivers in some of the exciting bits, and gets me very depressed in the sad bits.<br /><br />Very enjoyable book.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/115153037]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/115153037]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>105995059</id>
+    <book>
+  <id type="integer">45244</id>
+  <isbn>0345461665</isbn>
+  <isbn13>9780345461667</isbn13>
+  <text_reviews_count type="integer">730</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4cur2X9Awz8U2izr0T7c7A</uri>
+  <title>Judas Unchained</title>
+  <title_without_series>Judas Unchained</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1316501189m/45244.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1316501189s/45244.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/45244.Judas_Unchained</link>
+  <num_pages>827</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>26179</ratings_count>
+  <description>Robust, peaceful, and confident, the Commonwealth dispatched a ship to investigate the mystery of a disappearing star, only to inadvertently unleash a predatory alien species that turned on its liberators, striking hard, fast, and utterly without mercy. &lt;br /&gt;&lt;br /&gt;The Prime are the Commonwealth's worst nightmare. Coexistence is impossible with the technologically advanced aliens, who are genetically hardwired to exterminate all other forms of life. Twenty-three planets have already fallen to the invaders, with casualties in the hundreds of millions. And no one knows when or where the genocidal Prime will strike next. &lt;br /&gt;&lt;br /&gt;Nor are the Prime the only threat. For more than a hundred years, a shadowy cult, the Guardians of Selfhood, has warned that an alien with mind-control abilities impossible to detect or resist -- the Starflyer -- has secretly infiltrated the Commonwealth. Branded as terrorists, the Guardians and their leader, Bradley Johansson, have been hunted by relentless investigator Paula Myo. But now evidence suggests that the Guardians were right all along, and that the Starflyer has placed agents in vital posts throughout the Commonwealth -- agents who are now sabotaging the war effort. &lt;br /&gt;&lt;br /&gt;Is the Starflyer an ally of the Prime, or has it orchestrated a fight to the death between the two species for its own advantage? Caught between two deadly enemies, one a brutal invader striking from without, the other a remorseless cancer killing from within, the fractious Commonwealth must unite as never before...</description>
+<authors>
+<author>
+<id>25375</id>
+<name>Peter F. Hamilton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235123752p5/25375.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235123752p2/25375.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25375.Peter_F_Hamilton]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>264440</ratings_count>
+<text_reviews_count>9959</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>44507</id>
+  <uri>kca://work/amzn1.gr.work.v1.V26v7XbBcnulMJqiAy-bUg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='59393775' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 07 09:05:14 -0700 2010</started_at>
+  <read_at>Mon Jun 07 09:05:19 -0700 2010</read_at>
+  <date_added>Mon Jun 07 09:05:14 -0700 2010</date_added>
+  <date_updated>Mon Jun 07 09:07:10 -0700 2010</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/105995059]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/105995059]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>95788520</id>
+    <book>
+  <id type="integer">979682</id>
+  <isbn>0140304770</isbn>
+  <isbn13>9780140304770</isbn13>
+  <text_reviews_count type="integer">45</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZhmGBJiZNzdvtY7Xv3DdaQ</uri>
+  <title>A Wizard of Earthsea (Earthsea Cycle, #1)</title>
+  <title_without_series>A Wizard of Earthsea</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1337480739m/979682.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1337480739s/979682.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/979682.A_Wizard_of_Earthsea</link>
+  <num_pages>203</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher> Puffin Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1971</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>179778</ratings_count>
+  <description>See alternate cover editions &lt;a href="https://www.goodreads.com/book/show/11085068-a-wizard-of-earthsea" rel="nofollow"&gt;here&lt;/a&gt; and &lt;a href="https://www.goodreads.com/book/show/21955833-a-wizard-of-earthsea" rel="nofollow"&gt;here&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;First published in 1968, this classic fantasy is a coming-of-age tale about a boy destined to become the greatest sorcerer in the world. In the 1001 island realm of Earthsea, Ged is a poor blacksmith's son born with an innate understanding of magic. But when he studies at the Roke Island school, he lets his arrogance and antipathy for another student lead him into a disastrous mistake -- unleashing an evil spirit bent on devouring Ged's essence.</description>
+<authors>
+<author>
+<id>874602</id>
+<name>Ursula K. Le Guin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244291425p5/874602.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244291425p2/874602.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>757707</ratings_count>
+<text_reviews_count>40230</text_reviews_count>
+</author>
+</authors>
+  <published>1971</published>
+<work>  <id>113603</id>
+  <uri>kca://work/amzn1.gr.work.v1.GxrQvIxdiGIW-OF1X3MPlQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='52349754' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 25 20:58:25 -0700 2010</started_at>
+  <read_at>Wed Mar 31 10:08:48 -0700 2010</read_at>
+  <date_added>Thu Mar 25 20:58:15 -0700 2010</date_added>
+  <date_updated>Sun May 18 15:08:47 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/95788520]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/95788520]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>94288920</id>
+    <book>
+  <id type="integer">209693</id>
+  <isbn>0575074264</isbn>
+  <isbn13>9780575074262</isbn13>
+  <text_reviews_count type="integer">165</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.f0ZAtopHrO3KfbTdcdW53Q</uri>
+  <title>The Drawing of the Dark</title>
+  <title_without_series>The Drawing of the Dark</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1303142797m/209693.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1303142797s/209693.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/209693.The_Drawing_of_the_Dark</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gollancz Paperbacks</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>4017</ratings_count>
+  <description>Del Rey's Impact line introduces a list of titles that have "slipped through the cracks and become buried treasure." The re-release of Tim Powers's &lt;i&gt;The Drawing of the Dark&lt;/i&gt; (first published in 1979) is indeed worthy of the imprint. It was his third novel and first foray into the fantasy genre.&lt;p&gt; It is the year 1529 and Brian Duffy, a soldier of fortune, finds himself in Venice. A late-night confrontation with three brothers over a matter of honor convinces Brian to find greener pastures. After a chance meeting with an old monk named Aurelainus, Brian finds himself hired on to be the bouncer at the famous Herzwesten brewery and inn (formerly a monastery) located in Vienna. During Brian's voyage from Venice to Vienna, he crosses the Dolomite Mountains, only to meet assassins who attack him. Dwarves and creatures Brian knew only from mythology assist him in vanquishing his attackers.&lt;/p&gt;&lt;p&gt; The mythical Fisher King is a central character in &lt;i&gt;The Drawing of the Dark&lt;/i&gt;, and cameos by the Roman god Bacchus, the Lady of the Lake, reincarnations of King Arthur and Sigmund from Norse mythology, Merlin, and hosts of soldiers, including Vikings and Swiss mercenaries, add to the otherworldly feel. The legendary heroes are allied against legions of soldiers from the Turkish Ottoman Empire under Suleiman and his wizard Ibrahim, who try to repeat the successes of their 1521 and 1526 invasions of eastern Europe by laying siege to Vienna. But just what is their objective? The city or the beer?&lt;/p&gt;&lt;p&gt; Tim Powers does a great job of tying the historical invasion of eastern Europe by the Turks to a rollicking, fun-filled fantasy, which offers its own reasons for the invasion and a wonderful cast of heroes that ultimately repel the invaders. This is a must-read for Tim Powers fans and for readers who have yet to delve into his rich, wonderful worlds. &lt;i&gt;--Robert Gately&lt;/i&gt;&lt;/p&gt;</description>
+<authors>
+<author>
+<id>8835</id>
+<name>Tim Powers</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373471978p5/8835.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1373471978p2/8835.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8835.Tim_Powers]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>61154</ratings_count>
+<text_reviews_count>5802</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>484158</id>
+  <uri>kca://work/amzn1.gr.work.v1.PVH7OKqbKtziz61MlDZSIg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='59393785' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 15 22:45:34 -0700 2010</date_added>
+  <date_updated>Thu Mar 18 17:30:04 -0700 2010</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/94288920]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/94288920]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>93215766</id>
+    <book>
+  <id type="integer">526307</id>
+  <isbn>0345479211</isbn>
+  <isbn13>9780345479211</isbn13>
+  <text_reviews_count type="integer">125</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ikc87cmauqXqWU7k8P56lA</uri>
+  <title>Pandora's Star (Commonwealth Saga, #1)</title>
+  <title_without_series>Pandora's Star</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1432843831m/526307.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1432843831s/526307.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/526307.Pandora_s_Star</link>
+  <num_pages>988</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Del Rey</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>34600</ratings_count>
+  <description>The year is 2380. The Intersolar Commonwealth, a sphere of stars some four hundred light-years in diameter, contains more than six hundred worlds, interconnected by a web of transport “tunnels” known as wormholes. At the farthest edge of the Commonwealth, astronomer Dudley Bose observes the impossible: Over one thousand light-years away, a star . . . vanishes. It does not go supernova. It does not collapse into a black hole. It simply &lt;i&gt;disappears&lt;/i&gt;. Since the location is too distant to reach by wormhole, a faster-than-light starship, the &lt;i&gt;Second Chance&lt;/i&gt;, is dispatched to learn what has occurred and whether it represents a threat. In command is Wilson Kime, a five-time rejuvenated ex-NASA pilot whose glory days are centuries behind him.&lt;br /&gt;&lt;br /&gt; Opposed to the mission are the Guardians of Selfhood, a cult that believes the human race is being manipulated by an alien entity they call the Starflyer. Bradley Johansson, leader of the Guardians, warns of sabotage, fearing the Starflyer means to use the starship’s mission for its own ends.&lt;br /&gt;&lt;br /&gt; Pursued by a Commonwealth special agent convinced the Guardians are crazy but dangerous, Johansson flees. But the danger is not averted. Aboard the &lt;i&gt;Second Chance&lt;/i&gt;, Kime wonders if his crew has been infiltrated. Soon enough, he will have other worries. A thousand light-years away, something truly incredible is waiting: a deadly discovery whose unleashing will threaten to destroy the Commonwealth . . . and humanity itself. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Could it be that Johansson was right?&lt;/i&gt;</description>
+<authors>
+<author>
+<id>25375</id>
+<name>Peter F. Hamilton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235123752p5/25375.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235123752p2/25375.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25375.Peter_F_Hamilton]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>264440</ratings_count>
+<text_reviews_count>9959</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>987015</id>
+  <uri>kca://work/amzn1.gr.work.v1.DiVQLfGD3h6AxFbfRmY6Fw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='50706895' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 28 00:00:00 -0800 2010</started_at>
+  <read_at>Wed Apr 28 00:36:08 -0700 2010</read_at>
+  <date_added>Tue Mar 09 00:00:13 -0800 2010</date_added>
+  <date_updated>Mon Jun 07 09:07:07 -0700 2010</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/93215766]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/93215766]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>90053808</id>
+    <book>
+  <id type="integer">129633</id>
+  <isbn>0380818264</isbn>
+  <isbn13>9780380818266</isbn13>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Eidx6uK0K1EBMXgNAnPenA</uri>
+  <title>Star Marines (The Legacy Trilogy, #3)</title>
+  <title_without_series>Star Marines</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/129633.Star_Marines</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Voyager</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>945</ratings_count>
+  <description>&lt;blockquote&gt;With the planet's fighting men and women deployed across the galaxy—battling in the noble cause of enslaved humanity—the insidious Xul have reached across space to devastate the unsuspecting Earth with asteroid fire. Without warning, a once majestic world is reduced to near-rubble—and the very future of humankind is in dire jeopardy.&lt;br /&gt;&lt;br /&gt;&lt;/blockquote&gt;Interplanetary leaders are on the brink of abandoning Earth and its colonies to an overwhelming enemy. But Brigadier General Garroway of the Marine Interstellar Expeditionary Unit is unwilling to concede defeat—not as long as there's a single marine willing to give his or her life in defense of their embattled homeworld. The ultimate battle is about to be waged—with breathtaking new attack technology, an ancient code of courage, and the help of an ally race that once inhabited the Earth—in a war that will alter the universe forever . . .</description>
+<authors>
+<author>
+<id>4702581</id>
+<name>Ian Douglas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343233907p5/4702581.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343233907p2/4702581.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4702581.Ian_Douglas]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>29915</ratings_count>
+<text_reviews_count>1127</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>124855</id>
+  <uri>kca://work/amzn1.gr.work.v1.iRPnXA9lLIXndPczWnyeZQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='48773803' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 16 21:35:00 -0800 2010</date_added>
+  <date_updated>Wed Feb 17 00:19:42 -0800 2010</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/90053808]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/90053808]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>90053798</id>
+    <book>
+  <id type="integer">944334</id>
+  <isbn>1552451305</isbn>
+  <isbn13>9781552451304</isbn13>
+  <text_reviews_count type="integer">814</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.y17k_OaG_5Nf9fpBpbkTDA</uri>
+  <title>All My Friends are Superheroes</title>
+  <title_without_series>All My Friends are Superheroes</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1290500936m/944334.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1290500936s/944334.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/944334.All_My_Friends_are_Superheroes</link>
+  <num_pages>120</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Coach House Press</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>8974</ratings_count>
+  <description>All Tom's friends really are superheroes.&lt;br /&gt;&lt;br /&gt;There's the Ear, the Spooner, the Impossible Man. Tom even married a superhero, the Perfectionist. But at their wedding, the Perfectionist was hypnotized (by ex-boyfriend Hypno, of course) to believe that Tom is invisible. Nothing he does can make her see him. Six months later, she's sure that Tom has abandoned her.&lt;br /&gt;&lt;br /&gt;So she's moving to Vancouver. She'll use her superpower to make Vancouver perfect and leave all the heartbreak in Toronto. With no idea Tom's beside her, she boards an airplane in Toronto. Tom has until the wheels touch the ground in Vancouver to convince her he's visible, or he loses her forever.</description>
+<authors>
+<author>
+<id>413783</id>
+<name>Andrew Kaufman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1314533967p5/413783.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1314533967p2/413783.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/413783.Andrew_Kaufman]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>14427</ratings_count>
+<text_reviews_count>1858</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>774561</id>
+  <uri>kca://work/amzn1.gr.work.v1.yW5Xd6kCyoPdlC8kGGTZOg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="10027779" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='10028847' name='dont-own' review_shelf_id='48773812' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 16 21:34:55 -0800 2010</date_added>
+  <date_updated>Wed Feb 17 00:19:49 -0800 2010</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/90053798]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/90053798]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

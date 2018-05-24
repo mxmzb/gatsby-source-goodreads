@@ -6,6 +6,15 @@
     "type": "git",
     "url": "git+https://github.com/halkeye/gatsby-source-goodreads.git"
   },
+  "files": [
+    "gatsby-node.js",
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
   "bundleDependencies": false,
   "keywords": [
     "goodreads",
@@ -22,5 +31,15 @@
   "bugs": {
     "url": "https://github.com/halkeye/gatsby-source-goodreads/issues"
   },
-  "homepage": "https://github.com/halkeye/gatsby-source-goodreads#readme"
+  "homepage": "https://github.com/halkeye/gatsby-source-goodreads#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "jest": "^23.0.0",
+    "prettier-eslint-cli": "^4.7.1"
+  }
 }
