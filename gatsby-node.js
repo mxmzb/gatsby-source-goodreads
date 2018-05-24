@@ -77,10 +77,10 @@ exports.sourceNodes = async (
           parent: null,
           children: [],
           internal: {
-            type: `GoodreadsShelf`,
+            type: `GoodreadsBook`,
             contentDigest: crypto
             .createHash(`md5`)
-            .update(`shelf${goodReadsUserId}`)
+            .update(`book${goodReadsUserId}`)
             .digest(`hex`)
           }
         });
