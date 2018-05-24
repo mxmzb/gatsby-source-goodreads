@@ -79,14 +79,14 @@ describe('main', function () {
         },
         parent: null,
         review: {
-          dateAdded: 'Mon Oct 24 10:42:54 -0700 2011',
-          dateUpdated: 'none',
+          dateAdded: '2011-10-24T17:42:54.000Z',
+          dateUpdated: '2011-10-24T17:45:54.000Z',
           rating: '4',
-          readAt: 'Mon Oct 24 00:00:00 -0700 2011',
+          readAt: '2011-10-24T07:00:00.000Z',
           reviewID: '226999906',
           spoilerFlag: 'false',
           spoilersState: 'none',
-          startedAt: 'Thu Oct 20 00:00:00 -0700 2011',
+          startedAt: '2011-10-20T07:00:00.000Z',
           votes: '0'
         },
         shelfNames: ['read', 'dont-own']

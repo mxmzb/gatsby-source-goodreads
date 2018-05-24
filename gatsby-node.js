@@ -20,10 +20,18 @@ function processBook (reviewElement) {
     votes: reviewElement.votes[0],
     spoilerFlag: reviewElement.spoiler_flag[0],
     spoilersState: reviewElement.spoilers_state[0],
-    dateAdded: reviewElement.date_added[0],
-    dateUpdated: reviewElement.spoilers_state[0],
-    startedAt: reviewElement.started_at[0],
+    dateAdded: reviewElement.date_added[0]
+      ? new Date(reviewElement.date_added[0]).toISOString()
+      : null,
+    dateUpdated: reviewElement.date_updated[0]
+      ? new Date(reviewElement.date_updated[0]).toISOString()
+      : null,
+    startedAt: reviewElement.started_at[0]
+      ? new Date(reviewElement.started_at[0]).toISOString()
+      : null,
     readAt: reviewElement.read_at[0]
+      ? new Date(reviewElement.read_at[0]).toISOString()
+      : null
   };
   const book = {
     bookID: bookElement.id[0]._,
