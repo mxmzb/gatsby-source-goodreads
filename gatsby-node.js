@@ -2,7 +2,23 @@ const axios = require(`axios`);
 const crypto = require(`crypto`);
 const parseString = require('pify')(require('xml2js').parseString);
 
-function processBook (reviewElement) {
+const processBook = async (reviewElement, reporter, developerKey) => {
+  const reviewXml = await axios.get(
+    `https://www.goodreads.com/review/show.xml?id=${reviewElement.id[0]}&key=${developerKey}`
+  );
+
+  if (reviewXml.status !== 200) {
+    reporter.panic(
+      `gatsby-source-goodreads: Failed API call -  ${shelfListXml}`
+    );
+    return;
+  }
+
+  const reviewData = await parseString(reviewXml.data);
+
+
+  const myReviewBody = reviewData.GoodreadsResponse.review[0].body[0]
+
   const bookElement = reviewElement.book[0];
 
   let isbnValue = bookElement.isbn[0];
@@ -17,6 +33,7 @@ function processBook (reviewElement) {
   const review = {
     reviewID: reviewElement.id[0],
     rating: parseInt(reviewElement.rating[0]),
+    content: myReviewBody,
     votes: parseInt(reviewElement.votes[0]),
     spoilerFlag: reviewElement.spoiler_flag[0],
     spoilersState: reviewElement.spoilers_state[0],
@@ -85,13 +102,15 @@ exports.sourceNodes = async (
         return;
       }
 
-      const shelfReviewId = `reviewList-${goodReadsUserId}`;
+      // const shelfReviewId = `reviewList-${goodReadsUserId}`;
 
       const result = await parseString(shelfListXml.data);
+
+
       const end = parseInt(result.GoodreadsResponse.reviews[0].$.end);
       const total = parseInt(result.GoodreadsResponse.reviews[0].$.total);
       for (const element of result.GoodreadsResponse.reviews[0].review) {
-        const { shelfNames, review, book } = processBook(element);
+        const { shelfNames, review, book } = await processBook(element, reporter, developerKey);
         createNode({
           id: review.reviewID,
           shelfNames,

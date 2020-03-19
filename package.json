@@ -1,10 +1,10 @@
 {
-  "name": "@halkeye/gatsby-source-goodreads",
-  "version": "0.0.6",
+  "name": "gatsby-source-goodreads",
+  "version": "0.0.7",
   "description": "Get the public books from a shelf in Goodreads for use in Gatsby.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halkeye/gatsby-source-goodreads.git"
+    "url": "git+https://github.com/mxmzb/gatsby-source-goodreads.git"
   },
   "files": [
     "gatsby-node.js",
@@ -29,9 +29,9 @@
     "xml2js": "^0.4.19"
   },
   "bugs": {
-    "url": "https://github.com/halkeye/gatsby-source-goodreads/issues"
+    "url": "https://github.com/mxmzb/gatsby-source-goodreads/issues"
   },
-  "homepage": "https://github.com/halkeye/gatsby-source-goodreads#readme",
+  "homepage": "https://github.com/mxmzb/gatsby-source-goodreads#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-standard": "^11.0.0",
